@@ -9,6 +9,7 @@ June 5, 2023
 # How do I participate? 
 
 Step one is to sign in to Music League with a Spotify account : https://app.musicleague.com/ 
+
 You don’t need to use your personal account, feel free to create a new one for this 🎵
 
 Once we’re ready, the Morale Captains will share a link for you to join the league.
@@ -48,7 +49,9 @@ You can also access overall league standings through the “standings” tab in 
 ![List of the league standings](https://github.com/kag728/music-league/assets/42548585/3ea964f7-9070-4905-ae03-1eb8f4fb49ab)
 
 Things to note:
+
 Music League will send you notifications and reminders about round deadlines (when a round is open, reminders to submit a song, when the playlist is available, when voting opens, and when voting ends) you are able to make changes to notifications through your Music League profile.
+
 You can use the web application if you prefer, there is no requirement to install the mobile application.
 
 # Timeline 
