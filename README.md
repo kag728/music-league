@@ -19,10 +19,10 @@ In the league, you will see a list of rounds, with the current round being at th
 
 
 When a round is open, you will get a chance to submit a song
-![Current round page with a button to submit songs](https://github.com/kag728/music-league/assets/42548585/b9b8d2f7-0657-4c14-9e74-ddff58eb1f9e)
+![Current round page with a button to submit songs](https://github.com/kag728/music-league/assets/42548585/a4d62e08-cfd0-4c09-97bd-33945f8bc267)
 
 You can write a comment when you make a submission, but remember you want to stay anonymous, so don’t give yourself away 👏
-![Submission page with area to write a comment about the song](https://github.com/kag728/music-league/assets/42548585/ca7d0204-625d-478f-bfef-9c016ae9da4c)
+![Submission page with area to write a comment about the song](https://github.com/kag728/music-league/assets/42548585/542a8b39-2cd4-4f05-a38a-e9a7947cfee5)
 
 Every player has a week to submit, once the deadline approaches, Music League will take all of the submissions and create a Spotify playlist.
 
@@ -33,20 +33,19 @@ You can access the playlist by:
 The round will close off after a week of voting. Players will have one week to vote for the songs that other players submitted 
 
 To vote, head to the the round information in the application and click on “Submit your Votes” 
-![Button that says to submit your votes](https://github.com/kag728/music-league/assets/42548585/c88c248f-ea72-4c28-8aa5-7b14d94400c6)
+![Button that says to submit your votes](https://github.com/kag728/music-league/assets/42548585/b512cb62-6c6a-4ff7-9b8e-06caa2eb0273)
 
 Don’t miss the deadline to vote! If you made a submission and don’t vote, your song will be disqualified for the round 😨
 
 When voting, be conscious of how many votes you have to hand out (votes are proportional to the number of players in the league)
-![Voting screen with text areas and voting buttons](https://github.com/kag728/music-league/assets/42548585/b1fb8604-df39-4106-b272-11b20a6496c7)
-
+![Voting screen with text areas and voting buttons](https://github.com/kag728/music-league/assets/42548585/cbaef506-733c-47fb-bde2-ed8a2a5046da)
 
 Results for the rounds will be published once the voting deadline has passed, and you can view results of all rounds through the “Results” on each round’s info card
-![After the round, listen to playlist or results](https://github.com/kag728/music-league/assets/42548585/aaa2194b-ed21-4e3c-8dca-35c38bb0e9ab)
+![After the round, listen to playlist or results](https://github.com/kag728/music-league/assets/42548585/84779868-60e9-4c17-aff6-a87def233c03)
 
 You can also access overall league standings through the “standings” tab in the main page
 
-![List of the league standings](https://github.com/kag728/music-league/assets/42548585/69ed5c9d-aff5-4f1f-9d16-658510e72271)
+![List of the league standings](https://github.com/kag728/music-league/assets/42548585/3ea964f7-9070-4905-ae03-1eb8f4fb49ab)
 
 Things to note:
 Music League will send you notifications and reminders about round deadlines (when a round is open, reminders to submit a song, when the playlist is available, when voting opens, and when voting ends) you are able to make changes to notifications through your Music League profile.
