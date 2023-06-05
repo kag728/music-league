@@ -15,12 +15,12 @@ Once we’re ready, the Morale Captains will share a link for you to join the le
 
 In the league, you will see a list of rounds, with the current round being at the top.
 
-![image6](https://github.com/kag728/Notes/assets/42548585/d856ba9b-0f4d-44ae-b1b5-a30f89ef16e9)
+![Current round intro page](https://github.com/kag728/Notes/assets/42548585/d856ba9b-0f4d-44ae-b1b5-a30f89ef16e9)
 When a round is open, you will get a chance to submit a song
-![image7](https://github.com/kag728/Notes/assets/42548585/f37aa1c1-74ec-4b03-b1a3-a397618fdd66)
+![Current round page with a button to submit songs](https://github.com/kag728/Notes/assets/42548585/f37aa1c1-74ec-4b03-b1a3-a397618fdd66)
 
 You can write a comment when you make a submission, but remember you want to stay anonymous, so don’t give yourself away 👏
-![image2](https://github.com/kag728/Notes/assets/42548585/5ca2ac22-6374-46e7-aa30-58c56bfad2ec)
+![Submission page with area to write a comment about the song](https://github.com/kag728/Notes/assets/42548585/5ca2ac22-6374-46e7-aa30-58c56bfad2ec)
 
 
 Every player has a week to submit, once the deadline approaches, Music League will take all of the submissions and create a Spotify playlist.
@@ -32,21 +32,21 @@ You can access the playlist by:
 The round will close off after a week of voting. Players will have one week to vote for the songs that other players submitted 
 
 To vote, head to the the round information in the application and click on “Submit your Votes” 
-![image1](https://github.com/kag728/Notes/assets/42548585/e769b91a-8615-48dd-9386-f3c568efcfd9)
+![Button that says to submit your votes](https://github.com/kag728/Notes/assets/42548585/e769b91a-8615-48dd-9386-f3c568efcfd9)
 
 
 Don’t miss the deadline to vote! If you made a submission and don’t vote, your song will be disqualified for the round 😨
 
 When voting, be conscious of how many votes you have to hand out (votes are proportional to the number of players in the league)
-![image5](https://github.com/kag728/Notes/assets/42548585/5e340c17-a839-4aa6-a6e7-8b3267ff55bb)
+![Voting screen with text areas and voting buttons](https://github.com/kag728/Notes/assets/42548585/5e340c17-a839-4aa6-a6e7-8b3267ff55bb)
 
 
 Results for the rounds will be published once the voting deadline has passed, and you can view results of all rounds through the “Results” on each round’s info card
-![image3](https://github.com/kag728/Notes/assets/42548585/195e0e27-99c7-4d1e-bb8d-f220e7364cab)
+![After the round, listen to playlist or results](https://github.com/kag728/Notes/assets/42548585/195e0e27-99c7-4d1e-bb8d-f220e7364cab)
 
 You can also access overall league standings through the “standings” tab in the main page
 
-![image4](https://github.com/kag728/Notes/assets/42548585/40c90713-ab1c-4cea-9cfc-8a4cb4a6fd21)
+![List of the league standings](https://github.com/kag728/Notes/assets/42548585/40c90713-ab1c-4cea-9cfc-8a4cb4a6fd21)
 
 
 Things to note:
