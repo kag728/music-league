@@ -117,7 +117,9 @@ We will wrap up when the last round of voting ends and announce a winner on Augu
 # Code of Conduct 
 
 Use common sense. Work conduct rules still apply.
+
 No mean comments
+
 No NSFW songs 
 
 -------------------------------------------------------------------------------------------------------------------------------
