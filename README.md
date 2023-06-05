@@ -15,7 +15,7 @@ Once we’re ready, the Morale Captains will share a link for you to join the le
 
 In the league, you will see a list of rounds, with the current round being at the top.
 
-![Current round intro page](https://github.com/kag728/music-league/assets/42548585/8142909d-b00f-4c91-83d7-fdebcd9147bf)
+![Current round intro page](https://github.com/kag728/music-league/assets/42548585/96540ca4-346f-4c04-bfc6-785cb73a7475)
 
 
 When a round is open, you will get a chance to submit a song
